@@ -19,6 +19,7 @@ namespace TaskManager
         {
             while (true)
             {
+                scsdc
                 Console.Clear();
                 Console.WriteLine("==== Task Manager ====");
                 Console.WriteLine("1. View Tasks");
